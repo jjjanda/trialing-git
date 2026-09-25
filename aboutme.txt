@@ -1,0 +1,5 @@
+Name: Justin Emmanuel J. Janda
+Course/Year: 3rd Year - BSCS-SE
+Favorite programming language: Python
+Why do you want to learn Git? To be able to properly store my files.
+My goal in this subject: I want to learn varous programming tools that could help me on my road to becoming a software engineer.
